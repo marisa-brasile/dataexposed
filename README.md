@@ -19,6 +19,7 @@ Find a problem? Spot a bug? [Post an issue here](https://github.com/Microsoft/sq
 
 - [Data Exposed on Channel 9](https://channel9.msdn.com/Shows/Data-Exposed)
 - [Something Old, Something New](https://microsoft.github.io/dataexposed/sosn)
+- Azure SQL Security Series
 
 ## Other Resources, Materials, Code, and References
 
